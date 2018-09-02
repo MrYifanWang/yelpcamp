@@ -6,6 +6,8 @@ Designed and implemented MongoDB infrastructure to store reviews/comments data a
 
 Node.js, Express, Mongoose, Passport, RESTful Routing, jQuery, Javascript, and Bootstrap.
 
+Demo: https://campgroundyelp.herokuapp.com/
+
 Usage:
 npm install
 npm start
